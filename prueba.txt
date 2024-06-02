@@ -1,0 +1,7 @@
+Tarea 1
+Completar los siguientes comandos en un documento subir las capturas de pantalla:
+ Git Config
+ Git Log
+ Git Pull
+ Git Help
+ Git Commit
